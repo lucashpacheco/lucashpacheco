@@ -43,9 +43,8 @@
   ![VIM](https://img.shields.io/badge/-VIM-333333?style=flat&logo=V&logoColor=2C2255)
 
 <h3> 💻 &nbsp;OS Stack</h3> 
+
 - 🛠 &nbsp;
-  ![Git](https://img.shields.io/badge/-Git-333333?style=flat&logo=git)
-  ![Git](https://img.shields.io/badge/-Git-333333?style=flat&logo=git)
   ![Git](https://img.shields.io/badge/-Git-333333?style=flat&logo=git)
   ![Windows](https://img.shields.io/badge/-Windows-333333?style=flat&logo=W&logoColor=2C2255)
   ![Linux](https://img.shields.io/badge/-Linux-333333?style=flat&logo=L&logoColor=2C2255)
