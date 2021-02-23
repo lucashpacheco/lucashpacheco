@@ -31,12 +31,12 @@
   ![Bootstrap](https://img.shields.io/badge/-Bootstrap-333333?style=flat&logo=bootstrap&logoColor=563D7C)
   ![Node.js](https://img.shields.io/badge/-Node.js-333333?style=flat&logo=node.js)
 - 🛢 &nbsp;
-  ![SQLServer](https://img.shields.io/badge/-MongoDB-333333?style=flat&logo=mongodb)
+  ![SQLServer](https://img.shields.io/badge/-SQLServer-333333?style=flat)
   ![MySQL](https://img.shields.io/badge/-MySQL-333333?style=flat&logo=mysql)
 - ⚙️ &nbsp;
   ![Git](https://img.shields.io/badge/-Git-333333?style=flat&logo=git)
   ![GitHub](https://img.shields.io/badge/-GitHub-333333?style=flat&logo=github)
-  ![TFS](https://img.shields.io/badge/-Markdown-333333?style=flat&logo=markdown)
+  ![TFS](https://img.shields.io/badge/-Markdown-333333?style=flat&logo=T)
 - 🔧 &nbsp;
   ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-333333?style=flat&logo=visual-studio-code&logoColor=007ACC)
   ![Visual Studio](https://img.shields.io/badge/-Visual%20Studio-333333?style=flat&logo=V&logoColor=007ACC)
@@ -44,9 +44,9 @@
   ![AndroidStudio](https://img.shields.io/badge/-AndroidStudio-333333?style=flat&logo=A)
   ![VIM](https://img.shields.io/badge/-VIM-333333?style=flat&logo=V&logoColor=2C2255)
 - 🔭 &nbsp;
-- ![Windows] (https://img.shields.io/badge/-Windows-333333?style=flat&logo=W)
-- ![Linux] (https://img.shields.io/badge/-Linux-333333?style=flat&logo=L)
-- ![IOS] (https://img.shields.io/badge/-IOs-333333?style=flat&logo=A)
+- ![Windows](https://img.shields.io/badge/-Windows-333333?style=flat&logo=W)
+- ![Linux](https://img.shields.io/badge/-Linux-333333?style=flat&logo=L)
+- ![IOS](https://img.shields.io/badge/-IOs-333333?style=flat&logo=A)
 <br/>
 
 <a href="https://github.com/lucashpacheco">
