@@ -1,3 +1,4 @@
+<img src="/bannerreadme.png">
 <h3> 🤝🏻 &nbsp;Connect with Me </h3>
 
 <p align="center">
@@ -5,9 +6,6 @@
 <a href="https://gist.github.com/lucashpacheco/"><img alt="Gists" src="https://img.shields.io/badge/Gists-Gists%20Github_-blue?style=flat-square&logo=github"></a>
 <a href="mailto:lucas.pacheco.work@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-lucas.pacheco.work@gmail.com-blue?style=flat-square&logo=gmail"></a>
 </p>
-
-
-<img src="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Aditya%20Vikram%20Singh%20Banner.png">
 
 <h2> Welcome to Lucas Pacheco README</h2>
 
@@ -43,7 +41,8 @@
   ![SSMSql](https://img.shields.io/badge/-SSMSql-333333?style=flat&logo=S&logoColor=007ACC)
   ![AndroidStudio](https://img.shields.io/badge/-AndroidStudio-333333?style=flat&logo=A)
   ![VIM](https://img.shields.io/badge/-VIM-333333?style=flat&logo=V&logoColor=2C2255)
-- 🔭 &nbsp;
+
+<h3> 🔭 &nbsp;OS Stack</h3>
 - ![Windows](https://img.shields.io/badge/-Windows-333333?style=flat&logo=W)
 - ![Linux](https://img.shields.io/badge/-Linux-333333?style=flat&logo=L)
 - ![IOS](https://img.shields.io/badge/-IOs-333333?style=flat&logo=A)
