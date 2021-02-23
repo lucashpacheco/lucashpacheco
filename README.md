@@ -44,9 +44,9 @@
 
 <h3> 💻 &nbsp;OS Stack</h3> 
 - 🛠 &nbsp;
-  ![Windows](https://img.shields.io/badge/-Windows-333333?style=flat&logo=W)
-  ![Linux](https://img.shields.io/badge/-Linux-333333?style=flat&logo=L)
-  ![IOS](https://img.shields.io/badge/-IOs-333333?style=flat&logo=A)
+  ![Windows](https://img.shields.io/badge/Windows-333333?style=flat&logo=W)
+  ![Linux](https://img.shields.io/badge/Linux-333333?style=flat&logo=L)
+  ![IOS](https://img.shields.io/badge/IOs-333333?style=flat&logo=A)
 <br/>
 
 <a href="https://github.com/lucashpacheco">
