@@ -9,7 +9,7 @@
 
 <h2> Welcome to Lucas Pacheco README</h2>
 
-<h3> 👨🏻‍💻 &nbsp;About Me </h3>
+<h3> 👨 &nbsp;About Me </h3>
 
 - 🤔 &nbsp; Exploring new technologies and developing software solutions and quick hacks.
 - 🎓 &nbsp; Studying Analyze and Development Systems at University of Impacta.
@@ -42,10 +42,11 @@
   ![AndroidStudio](https://img.shields.io/badge/-AndroidStudio-333333?style=flat&logo=A)
   ![VIM](https://img.shields.io/badge/-VIM-333333?style=flat&logo=V&logoColor=2C2255)
 
-<h3> 🔭 &nbsp;OS Stack</h3>
-- ![Windows](https://img.shields.io/badge/-Windows-333333?style=flat&logo=W)
-- ![Linux](https://img.shields.io/badge/-Linux-333333?style=flat&logo=L)
-- ![IOS](https://img.shields.io/badge/-IOs-333333?style=flat&logo=A)
+<h3> 💻 &nbsp;OS Stack</h3> 
+- 🛠 &nbsp;
+  ![Windows](https://img.shields.io/badge/-Windows-333333?style=flat&logo=W)
+  ![Linux](https://img.shields.io/badge/-Linux-333333?style=flat&logo=L)
+  ![IOS](https://img.shields.io/badge/-IOs-333333?style=flat&logo=A)
 <br/>
 
 <a href="https://github.com/lucashpacheco">
