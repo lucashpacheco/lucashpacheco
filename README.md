@@ -1,9 +1,9 @@
 <h3> 🤝🏻 &nbsp;Connect with Me </h3>
 
 <p align="center">
-<a href="https://www.linkedin.com/in/AVS1508/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Aditya%20Vikram%20Singh-blue?style=flat-square&logo=linkedin"></a>
-<a href="https://gist.github.com/lucashpacheco/"><img alt="Gists" src="https://img.shields.io/badge/Gists Github__-blue?style=flat-square&logo=github"></a>
-<a href="mailto:lucas.pacheco.work@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-avsingh@umass.edu-blue?style=flat-square&logo=gmail"></a>
+<a href="https://www.linkedin.com/in/AVS1508/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Lucas%20Pacheco%20Singh-blue?style=flat-square&logo=linkedin"></a>
+<a href="https://gist.github.com/lucashpacheco/"><img alt="Gists" src="https://img.shields.io/badge/Gists-Github-Lucas%20Pacheco%20Singh_-blue?style=flat-square&logo=github"></a>
+<a href="mailto:lucas.pacheco.work@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-lucas.pacheco.work@gmail.com-blue?style=flat-square&logo=gmail"></a>
 </p>
 
 
